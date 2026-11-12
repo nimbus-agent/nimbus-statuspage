@@ -1,5 +1,9 @@
 # Nimbus Statuspage
 
+> **Retired and archived (2026-11-12).** This repository held a vision and a build prompt, and
+> nothing was ever built here. The idea continues as a gateway row: the *Status page draft* in [Phase 17 of the Nimbus roadmap](https://github.com/nimbus-agent/Nimbus/blob/main/docs/roadmap.md#phase-17--the-on-call-copilot).
+> The text below is kept as it was written.
+
 Generate an on-call / status page from [**Nimbus**](https://github.com/nimbus-agent/Nimbus)-indexed incidents, alerts, and DORA metrics.
 
 > **Status: SCAFFOLD — not yet built.** This repo holds its vision and a [build prompt](./NEW-SESSION-PROMPT.md).
